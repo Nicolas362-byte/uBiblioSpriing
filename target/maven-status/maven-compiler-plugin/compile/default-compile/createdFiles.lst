@@ -1,0 +1,8 @@
+com\ubiblio\repository\BukuRepository.class
+com\ubiblio\view\MainFrame.class
+com\ubiblio\view\SwingRunner.class
+com\ubiblio\model\Buku.class
+com\ubiblio\service\BukuService.class
+com\ubiblio\view\MainFrame$1.class
+com\ubiblio\UbilioSpringApplication.class
+com\ubiblio\view\MainFrame$2.class
